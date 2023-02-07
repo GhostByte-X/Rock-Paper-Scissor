@@ -1,0 +1,6 @@
+sender_id,session_idx,marker,statistic,value
+5f1bd5d6fb404bd8b7bf47082ee9bd72,0,marker_played_rps,count(number of preceding user turns),3
+5f1bd5d6fb404bd8b7bf47082ee9bd72,0,marker_played_rps,max(number of preceding user turns),3
+5f1bd5d6fb404bd8b7bf47082ee9bd72,0,marker_played_rps,mean(number of preceding user turns),2.0
+5f1bd5d6fb404bd8b7bf47082ee9bd72,0,marker_played_rps,median(number of preceding user turns),2.0
+5f1bd5d6fb404bd8b7bf47082ee9bd72,0,marker_played_rps,min(number of preceding user turns),1

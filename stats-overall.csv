@@ -1,0 +1,9 @@
+sender_id,session_idx,marker,statistic,value
+all,nan,-,total_number_of_sessions,1
+all,nan,marker_played_rps,number_of_sessions_where_marker_applied_at_least_once,1
+all,nan,marker_played_rps,percentage_of_sessions_where_marker_applied_at_least_once,100.0
+all,nan,marker_played_rps,count(number of preceding user turns),3
+all,nan,marker_played_rps,mean(number of preceding user turns),2.0
+all,nan,marker_played_rps,median(number of preceding user turns),2.0
+all,nan,marker_played_rps,min(number of preceding user turns),1
+all,nan,marker_played_rps,max(number of preceding user turns),3

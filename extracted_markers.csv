@@ -1,0 +1,4 @@
+sender_id,session_idx,marker,event_idx,num_preceding_user_turns
+5f1bd5d6fb404bd8b7bf47082ee9bd72,0,marker_played_rps,7,1
+5f1bd5d6fb404bd8b7bf47082ee9bd72,0,marker_played_rps,18,2
+5f1bd5d6fb404bd8b7bf47082ee9bd72,0,marker_played_rps,29,3
